@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_quiz">#003366</color>
+    <color name="nex_btn_color">#3297ca</color>
+    <color name="progress_bar">#D3C016</color>
+    <color name="Green">#66cc99</color>
+    <color name="Red">#ff6666</color>
+
+</resources>
