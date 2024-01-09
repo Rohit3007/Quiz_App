@@ -8,4 +8,7 @@ Studio.
 object-oriented programming principles and incorporates a variety of Android features, such as User input, data storage and Graphics. 
 
 
+Thankyou..
+
+
 Rohit Jana, signing off:)
